@@ -1,5 +1,5 @@
-# Data Engineering - Build an ETL pipeline using SQL Server Integration Services (SSIS) in Visual Studio 2019
-This project provides a starting point for building an ETL pipeline using SSIS in Visual Studio 2019.
+# Data Engineering - Build an ETL pipeline using SSIS
+This project provides a starting point for building an ETL pipeline using SQL Server Integration Services (SSIS) in Visual Studio 2019.
 
 # Goals
 The primary goal of the project is to provide a basic solution for anyone who is building a new ETL pipeline using SSIS.
