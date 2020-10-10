@@ -9,5 +9,10 @@ Prerequisites
 * Visual Studio 2019 installed. Note Visual Studio 2017 works slightly different regarding SSIS and this article may not work exactly for Visual Studio 2017.
 * SQL Server already installed.
 
+SSIS package encryption password
+- The package is configured to encrypt sensitive information by password, instead of using User Key.
+- The password is: password
+- For more details on encryption with User Key vs with password, please see my article: https://medium.com/@ss.shawnshi/data-engineering-how-to-address-ssis-package-failed-to-decrypt-protected-xml-node-for-password-264c9908f6e.
+
 # Features supported
 * Migrating data from one database on server#1 to another database on server#2.
