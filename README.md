@@ -16,3 +16,4 @@ SSIS package encryption password
 
 # Features supported
 * Migrating data from one database on server#1 to another database on server#2.
+* Addressed common error code 0x8009000B with message: Failed to decrypt protected XML node "DTS:Password" with error 0x8009000B
